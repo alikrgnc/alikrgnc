@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @alikrgnc
+- 👀 I’m interested in Java,HTML,CSS, ...
+- 🌱 I’m currently learning JAVA :)
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me : alikrgnc@gmail.com
+
